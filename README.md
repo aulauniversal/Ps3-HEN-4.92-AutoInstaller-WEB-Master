@@ -7,7 +7,7 @@
    C:\xampp\htdocs\hen_auto_installer\
    ```
 3. Abre **XAMPP Control Panel** y asegúrate de que **Apache** esté en ejecución.
-4. Ingresa en tu navegador:
+4. Ingresa en el navegador de tú consola :
    ```
    http://localhost/hen_auto_installer/492.html
    ```
