@@ -2,14 +2,14 @@
 
 ## 📌 Instrucciones para XAMPP en Windows
 1. Descarga e instala **XAMPP** desde [https://www.apachefriends.org/es/download.html](https://www.apachefriends.org/es/download.html).
-2. Copia los archivos del proyecto (`.htaccess`, `492.html`, `SETUP.P3T`, `style.html`) en la carpeta:
+2. Copia los archivos del proyecto (`.htaccess`, `index.html`, `SETUP.P3T`, `style.html`) en la carpeta:
    ```
    C:\xampp\htdocs\
    ```
 3. Abre **XAMPP Control Panel** y asegúrate de que **Apache** esté en ejecución.
 4. Ingresa en el navegador de tú consola ,deberas ingresar las ip del equipo donde se ejecuta XAMPP :
    ```
-   http://192.x.x.x/492.html
+   http://192.x.x.x/
 
    ```
 5. El instalador debería ejecutarse y descargar `SETUP.P3T` automáticamente.
@@ -24,7 +24,7 @@
    ```
 2. Copia los archivos del proyecto al directorio de Apache:
    ```sh
-   sudo cp .htaccess 492.html SETUP.P3T style.html /var/www/html/
+   sudo cp .htaccess index.html SETUP.P3T style.html /var/www/html/
    ```
 3. Ajusta los permisos para que Apache pueda acceder a los archivos:
    ```sh
@@ -37,7 +37,7 @@
    ```
 5. Ingresa en el navegador de tu consola:
    ```
-   http://direccionweb.com/492.html
+   http://direccionweb.com/
    ```
 6. El instalador debería ejecutarse y descargar `SETUP.P3T` automáticamente.
 
