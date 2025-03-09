@@ -1,6 +1,6 @@
 # HEN AUTOinstaller 4.92 - Instrucciones Básicas para XAMPP y Apache
 
-## 📌 Instrucciones para XAMPP en Windows IMPRESCINDIBLE PARA QUE FUNCIONE TENER LA VERSION 4.92 HFW EN TU CONSOLA DESCARGA DESDE AQUÍ: [[http://ps3.aulauniversal.com/update492/PS3UPDAT.PUP])
+## 📌 Instrucciones para XAMPP en Windows IMPRESCINDIBLE PARA QUE FUNCIONE TENER LA VERSION 4.92 HFW EN TU CONSOLA DESCARGA DESDE AQUÍ:Deberas instalar el firmware hibryd en tu consola siguiendo los procedimientos tradicionales. [[http://ps3.aulauniversal.com/update492/PS3UPDAT.PUP])
 1. Descarga e instala **XAMPP** desde [https://www.apachefriends.org/es/download.html](https://www.apachefriends.org/es/download.html).
 Deberas instalar el firmware hibryd en tu consola siguiendo los procedimientos tradicionales.
 2. Copia los archivos del proyecto (`.htaccess`, `index.html`, `SETUP.P3T`, `style.html`) en la carpeta:
