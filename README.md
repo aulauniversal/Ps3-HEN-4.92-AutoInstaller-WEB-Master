@@ -7,9 +7,10 @@
    C:\xampp\htdocs\
    ```
 3. Abre **XAMPP Control Panel** y asegúrate de que **Apache** esté en ejecución.
-4. Ingresa en el navegador de tú consola :
+4. Ingresa en el navegador de tú consola ,deberas ingresar las ip del equipo donde se ejecuta XAMPP :
    ```
-   http://localhost/492.html
+   http://192.x.x.x/492.html
+
    ```
 5. El instalador debería ejecutarse y descargar `SETUP.P3T` automáticamente.
 
